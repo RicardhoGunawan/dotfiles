@@ -98,6 +98,7 @@
           "vlc"
           "whatsapp"
           "ngrok"
+		  "openvpn-connect"
         ];
       };
 
